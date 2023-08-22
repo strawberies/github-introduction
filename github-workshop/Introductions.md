@@ -48,7 +48,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 36. 
 37. 
 38. 
-39. 
+39. Honey, cheese and sprinkles
 40. 
 41. 
 42. 
@@ -56,6 +56,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 44. 
 45. 
 46. olives
+47. Fried chicken and Watermelon
 48. 
 49. 
 50. 

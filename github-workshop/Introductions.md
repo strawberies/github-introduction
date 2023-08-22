@@ -7,7 +7,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 ## Question: What is your favourite pizza topping?
 
-0. Sophia loves Pizza
+0. Anne loves Pizza
 1. PINEAPPLE - bad
 2. Jalapeños 
 3. mushroom
@@ -45,18 +45,18 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 33.
 34. 
 35. 
-36. 
+36. nutella
 37. 
 38. 
 39. Honey, cheese and sprinkles
-40. 
+40. cheese
 41. 
-42. 
+42. artichokes
 43. 
 44. 
 45. 
 46. 
 47. Fried chicken and Watermelon
 48. red/green peppers
-49. 
-50. 
+49. Olives/Mushrooms
+51. 

@@ -57,6 +57,5 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 45. 
 46. 
 47. 
-48. 
-49. 
+48. Red Peppers 
 50. 

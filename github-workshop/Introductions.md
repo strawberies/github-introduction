@@ -51,7 +51,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 39. Honey, cheese and sprinkles
 40. 
 41. 
-42. 
+42. artichokes
 43. 
 44. 
 45. 
